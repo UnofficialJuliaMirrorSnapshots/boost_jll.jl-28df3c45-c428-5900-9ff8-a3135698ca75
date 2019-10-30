@@ -1,0 +1,10 @@
+name = "boost_jll"
+uuid = "28df3c45-c428-5900-9ff8-a3135698ca75"
+version = "1.71.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
